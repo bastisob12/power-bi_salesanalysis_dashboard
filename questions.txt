@@ -1,0 +1,6 @@
+This data represents a chocolate company sales report,our main objective of this report is to get the sales forcasting for next year (Future revenue generation)
+ Our KPI are are follows
+1) total customers had purchaced the products
+2) How much amount had been sold by our sales person 
+3)In which region the product had been sold more 
+4)How much boxes had been sold by each sales person
